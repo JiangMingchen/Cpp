@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Github\Cpp\存款利息的计算\main.cpp(467,25): warning C4244:  “+=”: 从“double”转换到“int”，可能丢失数据
+C:\Github\Cpp\存款利息的计算\main.cpp(631,29): warning C4244:  “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Github\Cpp\存款利息的计算\main.cpp(637,29): warning C4244:  “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Github\Cpp\存款利息的计算\main.cpp(639,28): warning C4244:  “=”: 从“double”转换到“float”，可能丢失数据
+C:\Github\Cpp\存款利息的计算\main.cpp(645,30): warning C4244:  “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Github\Cpp\存款利息的计算\main.cpp(647,28): warning C4244:  “+=”: 从“double”转换到“float”，可能丢失数据
+C:\Github\Cpp\存款利息的计算\main.cpp(653,29): warning C4244:  “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Github\Cpp\存款利息的计算\main.cpp(653,29): warning C4244: C:\Github\Cpp\存款利息的计算\main.cpp(94) : warning C4715: “user::Enter”: 不是所有的控件路径都返回值
+  LINK : 没有找到 C:\Github\Cpp\存款利息的计算\Debug\C++课程设计.exe 或上一个增量链接没有生成它；正在执行完全链接
+  C++课程设计.vcxproj -> C:\Github\Cpp\存款利息的计算\Debug\C++课程设计.exe
